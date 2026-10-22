@@ -2,11 +2,11 @@
 
 **Goal:** Array/string traversal fluent. 2D array basics. Simple recursion.
 
-**Progress:** 0 / 51  `░░░░░░░░░░░░░░░░░░░░`
+**Progress:** 1 / 51  `░░░░░░░░░░░░░░░░░░░░`
 
 | | ID | Problem | Level | Source | When | Links |
 |---|---|---|---|---|---|---|
-| ⬜ | `A233` | Find the largest and smallest element. | Basic | Warm-up + Striver + Babbar | W2 · Day 8 · 22 Oct | [Striver](https://www.google.com/search?q=takeuforward+Largest+Element) · [GFG](https://www.google.com/search?q=geeksforgeeks+practice+Maximum+And+Minimum+In+An+Array) |
+| ✅ | `A233` | [Find the largest and smallest element.](A233_FindTheLargestAndSmallestElement.java) | Basic | Warm-up + Striver + Babbar | W2 · Day 8 · 22 Oct | [Striver](https://www.google.com/search?q=takeuforward+Largest+Element) · [GFG](https://www.google.com/search?q=geeksforgeeks+practice+Maximum+And+Minimum+In+An+Array) |
 | ⬜ | `A235` | Merge two sorted arrays. | Basic | Warm-up + LeetCode list | W2 · Day 8 · 22 Oct | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) |
 | ⬜ | `A289` | Sum of Array Elements (loop + recursion) | Basic | Striver + Warm-up | W2 · Day 8 · 22 Oct | [Striver](https://www.google.com/search?q=takeuforward+Sum+of+Array+Elements+%28loop+%2B+recursion%29) · [Video](https://www.youtube.com/results?search_query=take+u+forward+Sum+of+Array+Elements+%28loop+%2B+recursion%29) |
 | ⬜ | `A290` | Count of odd numbers in Array | Basic | Striver | W2 · Day 8 · 22 Oct | [Striver](https://www.google.com/search?q=takeuforward+Count+of+odd+numbers+in+Array) · [Video](https://www.youtube.com/results?search_query=take+u+forward+Count+of+odd+numbers+in+Array) |

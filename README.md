@@ -10,14 +10,14 @@ The roadmap merges **Striver's A2Z sheet** (392 problems), **Love Babbar's 450**
 ## Progress
 
 <!-- PROGRESS:START -->
-**1 problem solved** · Basic 1 · Core 0 · Pro 0 · 0 redone · 🔥 1-day streak · 1 active days
+**2 problems solved** · Basic 2 · Core 0 · Pro 0 · 0 redone · 🔥 1-day streak · 1 active days
 
 | Track | Done | Total | Progress |
 |---|---:|---:|---|
-| Plan 1 (core, Oct–Jan) | 1 | 400 | `░░░░░░░░░░░░░░░░░░░░` |
+| Plan 1 (core, Oct–Jan) | 2 | 400 | `░░░░░░░░░░░░░░░░░░░░` |
 | Plan 2 (advanced) | 0 | 492 | `░░░░░░░░░░░░░░░░░░░░` |
-| Striver A2Z questions | 0 | 392 | `░░░░░░░░░░░░░░░░░░░░` |
-| Love Babbar 450 questions | 0 | 181 | `░░░░░░░░░░░░░░░░░░░░` |
+| Striver A2Z questions | 1 | 392 | `░░░░░░░░░░░░░░░░░░░░` |
+| Love Babbar 450 questions | 1 | 181 | `░░░░░░░░░░░░░░░░░░░░` |
 | ★ Interview favourites | 0 | 31 | `░░░░░░░░░░░░░░░░░░░░` |
 
 <details><summary>Week by week</summary>
@@ -25,7 +25,7 @@ The roadmap merges **Striver's A2Z sheet** (392 problems), **Love Babbar's 450**
 | Folder | Topic | Done |
 |---|---|---:|
 | [`W01-java-logic-building`](W01-java-logic-building/) | Java + Logic building | 1 / 63 |
-| [`W02-arrays-strings-matrix-first-contact`](W02-arrays-strings-matrix-first-contact/) | Arrays, Strings, Matrix — first contact | 0 / 51 |
+| [`W02-arrays-strings-matrix-first-contact`](W02-arrays-strings-matrix-first-contact/) | Arrays, Strings, Matrix — first contact | 1 / 51 |
 | [`W03-sorting-array-faqs-two-pointers`](W03-sorting-array-faqs-two-pointers/) | Sorting + Array FAQs + Two Pointers | 0 / 29 |
 | [`W04-kadane-prefix-sum-hashing`](W04-kadane-prefix-sum-hashing/) | Kadane + Prefix Sum + Hashing | 0 / 28 |
 | [`W05-sliding-window-strings-i`](W05-sliding-window-strings-i/) | Sliding Window + Strings I | 0 / 25 |
@@ -40,7 +40,7 @@ The roadmap merges **Striver's A2Z sheet** (392 problems), **Love Babbar's 450**
 
 </details>
 
-<sub>Updated 22 Oct 2026 by `scripts/progress.py`</sub>
+<sub>Updated 23 Oct 2026 by `scripts/progress.py`</sub>
 <!-- PROGRESS:END -->
 
 ## How it is organised
