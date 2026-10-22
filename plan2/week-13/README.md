@@ -1,0 +1,23 @@
+# Plan 2 · Week 13 · DP — Pro (2/2)
+
+**Goal:** Phase B · Tier 3: Infosys SP / TCS Prime / product
+
+**Progress:** 0 / 13  `░░░░░░░░░░░░░░░░░░░░`
+
+| | ID | Problem | Level | Source | When | Links |
+|---|---|---|---|---|---|---|
+| ⬜ | `A769` | Print Longest Increasing Subsequence | Pro | Striver | P2 W13 · 1 Apr | [Striver](https://www.google.com/search?q=takeuforward+Print+Longest+Increasing+Subsequence) · [Video](https://www.youtube.com/results?search_query=take+u+forward+Print+Longest+Increasing+Subsequence) |
+| ⬜ | `A774` | Minimum insertions to make string palindrome | Pro | Striver | P2 W13 · 1 Apr | [LeetCode](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) · [Striver](https://www.google.com/search?q=takeuforward+Minimum+insertions+to+make+string+palindrome) · [Video](https://www.youtube.com/results?search_query=take+u+forward+Minimum+insertions+to+make+string+palindrome) |
+| ⬜ | `A776` | Shortest common supersequence | Pro | Striver | P2 W13 · 1 Apr | [LeetCode](https://leetcode.com/problems/shortest-common-supersequence/) · [Striver](https://www.google.com/search?q=takeuforward+Shortest+common+supersequence) · [Video](https://www.youtube.com/results?search_query=take+u+forward+Shortest+common+supersequence) |
+| ⬜ | `A777` | Distinct subsequences | Pro | Striver | P2 W13 · 1 Apr | [LeetCode](https://leetcode.com/problems/distinct-subsequences/) · [Striver](https://www.google.com/search?q=takeuforward+Distinct+subsequences) · [Video](https://www.youtube.com/results?search_query=take+u+forward+Distinct+subsequences) |
+| ⬜ | `A778` | Edit distance ★ | Pro | Striver + Babbar | P2 W13 · 1 Apr | [LeetCode](https://leetcode.com/problems/edit-distance/) · [Striver](https://www.google.com/search?q=takeuforward+Edit+distance) · [GFG](https://www.google.com/search?q=geeksforgeeks+practice+Edit+distance) · [Video](https://www.youtube.com/results?search_query=take+u+forward+Edit+distance) |
+| ⬜ | `A779` | Wildcard matching | Pro | Striver + Babbar | P2 W13 · 1 Apr | [LeetCode](https://leetcode.com/problems/wildcard-matching/) · [Striver](https://www.google.com/search?q=takeuforward+Wildcard+matching) · [GFG](https://www.google.com/search?q=geeksforgeeks+practice+Wildcard+matching) · [Video](https://www.youtube.com/results?search_query=take+u+forward+Wildcard+matching) |
+| ⬜ | `A781` | Count Palindromic Subsequences | Pro | Striver + Babbar | P2 W13 · 1 Apr | [Striver](https://www.google.com/search?q=takeuforward+Count+Palindromic+Subsequences) · [GFG](https://www.google.com/search?q=geeksforgeeks+practice+Count+Palindromic+Subsequences) · [Video](https://www.youtube.com/results?search_query=take+u+forward+Count+Palindromic+Subsequences) |
+| ⬜ | `A782` | Matrix chain multiplication | Pro | Striver | P2 W13 · 1 Apr | [Striver](https://www.google.com/search?q=takeuforward+Matrix+chain+multiplication) · [Video](https://www.youtube.com/results?search_query=take+u+forward+Matrix+chain+multiplication) |
+| ⬜ | `A783` | Burst balloons | Pro | Striver | P2 W13 · 1 Apr | [LeetCode](https://leetcode.com/problems/burst-balloons/) · [Striver](https://www.google.com/search?q=takeuforward+Burst+balloons) · [Video](https://www.youtube.com/results?search_query=take+u+forward+Burst+balloons) |
+| ⬜ | `A784` | Palindrome partitioning II | Pro | Striver | P2 W13 · 1 Apr | [LeetCode](https://leetcode.com/problems/palindrome-partitioning-ii/) · [Striver](https://www.google.com/search?q=takeuforward+Palindrome+partitioning+II) · [Video](https://www.youtube.com/results?search_query=take+u+forward+Palindrome+partitioning+II) |
+| ⬜ | `A785` | Partition Array for Maximum Sum | Pro | Striver | P2 W13 · 1 Apr | [LeetCode](https://leetcode.com/problems/partition-array-for-maximum-sum/) · [Striver](https://www.google.com/search?q=takeuforward+Partition+Array+for+Maximum+Sum) · [Video](https://www.youtube.com/results?search_query=take+u+forward+Partition+Array+for+Maximum+Sum) |
+| ⬜ | `A786` | Minimum cost to cut the stick | Pro | Striver | P2 W13 · 1 Apr | [LeetCode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) · [Striver](https://www.google.com/search?q=takeuforward+Minimum+cost+to+cut+the+stick) · [Video](https://www.youtube.com/results?search_query=take+u+forward+Minimum+cost+to+cut+the+stick) |
+| ⬜ | `A787` | Different Ways to Evaluate a Boolean Expression | Pro | Striver | P2 W13 · 1 Apr | [Striver](https://www.google.com/search?q=takeuforward+Different+Ways+to+Evaluate+a+Boolean+Expression) · [Video](https://www.youtube.com/results?search_query=take+u+forward+Different+Ways+to+Evaluate+a+Boolean+Expression) |
+
+✅ solved · ⬜ pending · ★ interview favourite · 🔁 redone in `revision/`

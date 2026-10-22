@@ -1,0 +1,22 @@
+# Java
+*.class
+*.jar
+out/
+bin/
+target/
+build/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
