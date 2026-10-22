@@ -10,7 +10,7 @@ The roadmap merges **Striver's A2Z sheet** (392 problems), **Love Babbar's 450**
 ## Progress
 
 <!-- PROGRESS:START -->
-**1 problem solved** · Basic 1 · Core 0 · Pro 0 · 0 redone · 🔥 0-day streak · 0 active days
+**1 problem solved** · Basic 1 · Core 0 · Pro 0 · 0 redone · 🔥 1-day streak · 1 active days
 
 | Track | Done | Total | Progress |
 |---|---:|---:|---|
