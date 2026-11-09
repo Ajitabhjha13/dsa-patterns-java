@@ -106,7 +106,7 @@ def write_week_readmes(solved, redone):
         lines += ["", "✅ solved · ⬜ pending · ★ interview favourite · 🔁 redone in `revision/`", ""]
         p = ROOT / folder["path"] / "README.md"
         p.parent.mkdir(parents=True, exist_ok=True)
-        p.write_text("\n".join(lines), encoding="utf-8")
+        p.write_text("\n".join(lines), encoding="utf-8", newline="\n")
 
 
 def write_main_readme(solved, redone):
@@ -155,7 +155,7 @@ def write_main_readme(solved, redone):
     text = readme.read_text(encoding="utf-8")
     text = re.sub(r"<!-- PROGRESS:START -->.*<!-- PROGRESS:END -->",
                   "<!-- PROGRESS:START -->\n" + block + "\n<!-- PROGRESS:END -->", text, flags=re.S)
-    readme.write_text(text, encoding="utf-8")
+    readme.write_text(text, encoding="utf-8", newline="\n")
 
 
 def main():
