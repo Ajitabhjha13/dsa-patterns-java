@@ -7,6 +7,8 @@ Every solution starts with the approach, the time and space complexity, and the 
 
 The roadmap merges **Striver's A2Z sheet** (392 problems), **Love Babbar's 450** (181 problems) and pattern lists from LeetCode, without repeats: **892 problems** in total.
 
+> 🚧 **Work in progress:** I started this roadmap in October 2026 and add solutions as I work through it.
+
 ## Progress
 
 <!-- PROGRESS:START -->
